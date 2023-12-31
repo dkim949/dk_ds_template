@@ -1,11 +1,12 @@
 # My data science project template repository
 This repository is consist of as followings:
-- `data`
-- `notebooks`
-- `src`
-- `LICENSE`
-- `environment.yml`
-- `setup.py`
+- `data`:
+- `notebooks`:
+- `src`:
+- `LICENSE`:
+- `README.md`: 
+- `environment.yml`: 
+- `setup.py`:
 
 
 # References:
